@@ -1,0 +1,47 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.dat
+*.tmp
+*.out
+
+# Maven / Gradle
+target/
+build/
+.mvn/
+.gradle/
+*.iml
+*.ipr
+*.iws
+*.project
+*.classpath
+*.settings/
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+# User-specific files
+*.swp
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Selenium screenshots
+/screenshots/
+
+# Cucumber reports
+/reports/
